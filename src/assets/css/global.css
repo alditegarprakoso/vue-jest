@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "Averta";
+    src: local("Averta"), url("../fonts/Averta-Regular.otf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Averta-Bold";
+    src: local("Averta"), url("../fonts/Averta-Bold.otf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Averta-Black";
+    src: local("Averta"), url("../fonts/Averta-Black.otf") format("truetype");
+  }
+  
+  .averta {
+    font-family: "Averta";
+  }
+  
+  .averta-bold {
+    font-family: "Averta-Bold";
+  }
+  
+  .averta-black {
+    font-family: "Averta-Black";
+  }
+
+  .fs-10 {
+    font-size: 10px;
+  }
+
+  .fs-12 {
+    font-size: 12px;
+  }
+
+  .fs-14 {
+    font-size: 14px;
+  }
+
+  .fs-16 {
+    font-size: 16px;
+  }
+
+  .text-secondary {
+    color: #868686;
+  }
